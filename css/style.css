@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+
+body { 
+    background: url('https://media.istockphoto.com/photos/calendar-with-pen-on-the-blue-empty-copy-space-for-text-concept-for-picture-id1394594963?b=1&k=20&m=1394594963&s=170667a&w=0&h=K2UNMJKFElVoD6e5oGyoCc1CGHaHeLIO53ZIsGQz_t4=') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } 
+
+nav{
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav a{
+    text-decoration: none;
+    padding: 8px;
+    text-align:center;
+    color: aliceblue;
+    float: left; /*niche badhana ka lye use hota h */
+}
+
+h1{
+  text-shadow: 1px 2px;
+    padding:0.4cm;
+    color:brown;
+    text-align: center;
+    font-family:cursive;
+}
+
+#user{
+  margin-top: 15px;
+}
+
+#users{
+  margin-top: 25px;
+}
+.login-register-text {
+    color: #111;
+    font-size: 1.4em; 
+}
+
+.login-register-text a {
+    text-decoration: none;
+    color:#6c5ce7;
+}
+
